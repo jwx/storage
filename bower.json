@@ -1,0 +1,20 @@
+{
+  "name": "aurelia-storage",
+  "version": "1.0.0",
+  "description": "Implements a unified store and retrieve storage for local and remote stores.",
+  "keywords": [
+    "aurelia",
+    "storage"
+  ],
+  "homepage": "http://aurelia.io",
+  "main": "dist/commonjs/aurelia-storage.js",
+  "moduleType": "node",
+  "license": "MIT",
+  "authors": [
+    "Jürgen Wenzel <jurgen@jwenzel.se> (http://jwenzel.se/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jwx/storage"
+  }
+}
